@@ -172,7 +172,7 @@ p {
 
 /* css media breakpoints */
 @media (max-width:1286px) {
-  #title {
+  #title .container-fluid{
     text-align: center;
   }
 
